@@ -1,0 +1,11 @@
+C:\Users\Roberto\Desktop\Ejemplos\Clases\1er Clase\Introduccion\API\API.Ejemplo\API.Ejemplo\bin\Debug\netcoreapp2.0\API.Ejemplo.deps.json
+C:\Users\Roberto\Desktop\Ejemplos\Clases\1er Clase\Introduccion\API\API.Ejemplo\API.Ejemplo\bin\Debug\netcoreapp2.0\API.Ejemplo.runtimeconfig.json
+C:\Users\Roberto\Desktop\Ejemplos\Clases\1er Clase\Introduccion\API\API.Ejemplo\API.Ejemplo\bin\Debug\netcoreapp2.0\API.Ejemplo.runtimeconfig.dev.json
+C:\Users\Roberto\Desktop\Ejemplos\Clases\1er Clase\Introduccion\API\API.Ejemplo\API.Ejemplo\bin\Debug\netcoreapp2.0\API.Ejemplo.dll
+C:\Users\Roberto\Desktop\Ejemplos\Clases\1er Clase\Introduccion\API\API.Ejemplo\API.Ejemplo\bin\Debug\netcoreapp2.0\API.Ejemplo.pdb
+C:\Users\Roberto\Desktop\Ejemplos\Clases\1er Clase\Introduccion\API\API.Ejemplo\API.Ejemplo\obj\Debug\netcoreapp2.0\API.Ejemplo.csprojResolveAssemblyReference.cache
+C:\Users\Roberto\Desktop\Ejemplos\Clases\1er Clase\Introduccion\API\API.Ejemplo\API.Ejemplo\obj\Debug\netcoreapp2.0\API.Ejemplo.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\Desktop\Ejemplos\Clases\1er Clase\Introduccion\API\API.Ejemplo\API.Ejemplo\obj\Debug\netcoreapp2.0\API.Ejemplo.AssemblyInfoInputs.cache
+C:\Users\Roberto\Desktop\Ejemplos\Clases\1er Clase\Introduccion\API\API.Ejemplo\API.Ejemplo\obj\Debug\netcoreapp2.0\API.Ejemplo.AssemblyInfo.cs
+C:\Users\Roberto\Desktop\Ejemplos\Clases\1er Clase\Introduccion\API\API.Ejemplo\API.Ejemplo\obj\Debug\netcoreapp2.0\API.Ejemplo.dll
+C:\Users\Roberto\Desktop\Ejemplos\Clases\1er Clase\Introduccion\API\API.Ejemplo\API.Ejemplo\obj\Debug\netcoreapp2.0\API.Ejemplo.pdb
